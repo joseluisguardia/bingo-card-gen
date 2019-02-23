@@ -1,2 +1,2 @@
-# bingo-card-gen
-Powershell script to generate a bingo card.
+# Bingo card generator.
+This is a example Powershell script to generate a bingo card.
